@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## About Me
 
-💻 I specialize in web and software development, with a focus on back-end and front-end technologies.
-🌱 I'm currently learning more about cloud computing and advanced algorithms.
-👯 I'm open to collaborating on open-source projects and contributing to new ideas.
-⚡ I enjoy solving coding challenges, optimizing code, and exploring new tools.
-📚 In my free time, I like to read tech blogs and improve my knowledge of various programming languages.
+💻 I specialize in web and software development, with a focus on back-end and front-end technologies. <br>
+🌱 I'm currently learning more about cloud computing and advanced algorithms. <br>
+👯 I'm open to collaborating on open-source projects and contributing to new ideas. <br>
+⚡ I enjoy solving coding challenges, optimizing code, and exploring new tools. <br>
+📚 In my free time, I like to read tech blogs and improve my knowledge of various programming languages. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@johan_kristianto_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/johan-kristianto-0a7a5a217) 
