@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 
 ## About Me
 
-💻 I specialize in web and software development, with a focus on back-end and front-end technologies. <br>
-🌱 I'm currently learning more about cloud computing and advanced algorithms. <br>
+💻 I specialize in and network security and software development, with a focus on web technologies (back end & front end), mobile app technologies, embedded system, and cloud technologies. <br>
+🌱 I'm currently learning more about artificial intelligence and computing physics. <br>
 👯 I'm open to collaborating on open-source projects and contributing to new ideas. <br>
 ⚡ I enjoy solving coding challenges, optimizing code, and exploring new tools. <br>
 📚 In my free time, I like to read tech blogs and improve my knowledge of various programming languages. <br>
